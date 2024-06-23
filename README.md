@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **FullStack Java Developement**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1kWChV3SpIMitXs9s-PvYOFGExFWbR0tT/view?usp=drivesdk](https://drive.google.com/file/d/1kWChV3SpIMitXs9s-PvYOFGExFWbR0tT/view?usp=drivesdk)
-
+- 👨‍💻 All of my projects are available at  https://github.com/dnyanu-id9673 
 - 📫 How to reach me **dnyaneshwaripotghan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1crI4042rzQ90W8Y8LiPd1guyKEmA1_AT/view?usp=drivesdk](https://drive.google.com/file/d/1crI4042rzQ90W8Y8LiPd1guyKEmA1_AT/view?usp=drivesdk)
